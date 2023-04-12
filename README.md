@@ -1,6 +1,9 @@
 # blog_post_openai
 Extract the information from the blog post and customise OpenAI model using API
 
+# Example
+![alt text](https://github.com/koreva-liubov/blog_post_openai/blob/master/example.png)
+
 # Environment variables
 You have to specify your OpenAI API key
 ```
